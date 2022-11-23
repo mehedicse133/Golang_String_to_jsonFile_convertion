@@ -1,0 +1,78 @@
+Domain Name: TECHZOLAB.NET
+Registry Domain ID: 2692453754_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: www.publicdomainregistry.com
+Updated Date: 2022-08-07T10:22:07Z
+Creation Date: 2022-04-28T06:01:30Z
+Registrar Registration Expiration Date: 2023-04-28T06:01:30Z
+Registrar: PDR Ltd. d/b/a PublicDomainRegistry.com
+Registrar IANA ID: 303
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Techzolab
+Registrant Organization: Techzolab LLC
+Registrant Street: Crescent Road Mokbul 110/1, Crescent Road  
+Registrant City: Dhaka
+Registrant State/Province: Dhaka
+Registrant Postal Code: 1209
+Registrant Country: BD
+Registrant Phone: +880.1929111196
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: email@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Techzolab
+Admin Organization: Techzolab LLC
+Admin Street: Crescent Road Mokbul 110/1, Crescent Road
+Admin City: Dhaka
+Admin State/Province: Dhaka
+Admin Postal Code: 1209
+Admin Country: BD
+Admin Phone: +880.1929111196
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: email@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Techzolab
+Tech Organization: Techzolab LLC
+Tech Street: Crescent Road Mokbul 110/1, Crescent Road
+Tech City: Dhaka
+Tech State/Province: Dhaka
+Tech Postal Code: 1209
+Tech Country: BD
+Tech Phone: +880.1929111196
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: email@gmail.com
+Name Server: melany.ns.cloudflare.com
+Name Server: peter.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: email@publicdomainregistry.com
+Registrar Abuse Contact Phone: +1.2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+> > > Last update of WHOIS database: 2022-11-20T13:14:19Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: TECHZOLAB
+
+The data in this whois database is provided to you for information purposes
+only, that is, to assist you in obtaining information about or related to a
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone.
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without prior written consent from us. The Registrar of
+record is PDR Ltd. d/b/a PublicDomainRegistry.com.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

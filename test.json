@@ -1,0 +1,73 @@
+{
+ "adminInformatioin": {
+  "city": " Dhaka",
+  "country": " BD",
+  "email": " email@gmail.com",
+  "fax": "",
+  "faxext": "",
+  "name": " Techzolab",
+  "organization": " Techzolab LLC",
+  "phone": " +880.1929111196",
+  "phoneext": "",
+  "postalcode": " 1209",
+  "state/province": " Dhaka",
+  "street": " Crescent Road Mokbul 110/1, Crescent Road"
+ },
+ "dnssec": {
+  "dnssec": " Unsigned"
+ },
+ "domain": {
+  "CreationDate": " 2022-04-28T06:01:30Z",
+  "UpdatedDate": " 2022-08-07T10:22:07Z",
+  "name": " TECHZOLAB.NET",
+  "status": " clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
+ },
+ "nameServer": {
+  "nameserver1": " peter.ns.cloudflare.com",
+  "nameserver2": " peter.ns.cloudflare.com"
+ },
+ "registrantInformatioin": {
+  "city": " Dhaka",
+  "country": " BD",
+  "email": " email@gmail.com",
+  "fax": "",
+  "faxext": "",
+  "name": " Techzolab",
+  "organization": " Techzolab LLC",
+  "phone": " +880.1929111196",
+  "phoneext": "",
+  "postalcode": " 1209",
+  "state/province": " Dhaka",
+  "street": " Crescent Road Mokbul 110/1, Crescent Road  "
+ },
+ "registrerInformatioin": {
+  "Registrar": " PDR Ltd. d/b/a PublicDomainRegistry.com",
+  "RegistrarAbuseContactEmail": " email@publicdomainregistry.com",
+  "RegistrarAbuseContactPhone": " +1.2013775952",
+  "RegistrarIANAID": " 303",
+  "RegistrarRegistrationExpirationDate": " 2023-04-28T06:01:30Z",
+  "RegistrarURL": " www.publicdomainregistry.com",
+  "RegistrarWHOISServer": " whois.publicdomainregistry.com"
+ },
+ "registryInformatioin": {
+  "adminid": " Not Available From Registry",
+  "domainid": " 2692453754_DOMAIN_NET-VRSN",
+  "registrantid": " Not Available From Registry",
+  "techid": " Not Available From Registry"
+ },
+ "techInformatioin": {
+  "city": " Dhaka",
+  "country": " BD",
+  "email": " email@gmail.com",
+  "fax": "",
+  "faxext": "",
+  "name": " Techzolab",
+  "organization": " Techzolab LLC",
+  "phone": " +880.1929111196",
+  "phoneext": "",
+  "postalcode": " 1209",
+  "rawText": "Tech Name: Techzolab\r,Tech Organization: Techzolab LLC\r,Tech Street: Crescent Road Mokbul 110/1, Crescent Road\r,Tech City: Dhaka\r,Tech State/Province: Dhaka\r,Tech Postal Code: 1209\r,Tech Country: BD\r,Tech Phone: +880.1929111196\r,Tech Phone Ext:\r,Tech Fax:\r,Tech Fax Ext:\r,Tech Email: email@gmail.com\r",
+  "state/province": " Dhaka",
+  "street": " Crescent Road Mokbul 110/1, Crescent Road"
+ }
+}
