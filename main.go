@@ -73,6 +73,7 @@ func main() {
 	}
 
 	var name_Server = make(map[string]string)
+	counter := 1
 	for i := 0; i < len(nameServer); i++ {
 
 		splitString := strings.SplitN(nameServer[i], ":", 2)
@@ -80,16 +81,17 @@ func main() {
 		key0 := strings.ReplaceAll(splitString[0], " ", "")
 		key := strings.ToLower(key0)
 		value := strings.ReplaceAll(splitString[1], "\r", "")
-		name_Server[key+strconv.Itoa(1)] = value
+		name_Server[key+strconv.Itoa(counter)] = value
+		counter += 1
 
-		if i == 1 {
-			splitString := strings.SplitN(nameServer[i], ":", 2)
+		// if i == 1 {
+		// 	splitString := strings.SplitN(nameServer[i], ":", 2)
 
-			key0 := strings.ReplaceAll(splitString[0], " ", "")
-			key := strings.ToLower(key0)
-			value := strings.ReplaceAll(splitString[1], "\r", "")
-			name_Server[key+strconv.Itoa(2)] = value
-		}
+		// 	key0 := strings.ReplaceAll(splitString[0], " ", "")
+		// 	key := strings.ToLower(key0)
+		// 	value := strings.ReplaceAll(splitString[1], "\r", "")
+		// 	name_Server[key+strconv.Itoa(2)] = value
+		// }
 
 	}
 

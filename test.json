@@ -23,7 +23,7 @@
   "status": " clientTransferProhibited https://icann.org/epp#clientTransferProhibited"
  },
  "nameServer": {
-  "nameserver1": " peter.ns.cloudflare.com",
+  "nameserver1": " melany.ns.cloudflare.com",
   "nameserver2": " peter.ns.cloudflare.com"
  },
  "registrantInformatioin": {
